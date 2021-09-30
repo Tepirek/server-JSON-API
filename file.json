@@ -1,0 +1,129 @@
+{
+    "id": "111",
+    "parent_id": "0",
+    "firma_nazwa": "UNIWERSYTECKIE CENTRUM KLINICZNE WARSZAWSKIEGO UNIWERSYTETU MEDYCZNEGO ",
+    "nip": "5220002529",
+    "telefon": "22 599 10 00",
+    "email": "brak ",
+    "typklienta": "3",
+    "ul_klienta": "ul. Stefana Banacha 1A",
+    "kod": "02-097",
+    "miasto": "Warszawa",
+    "process_list": [
+        {
+            "id": "27144",
+            "data_instalacj": "0000-00-00",
+            "okres_gwarancji": "12",
+            "nr_faktury": null,
+            "rodzaj_produktu": "",
+            "notatki": "pro\u015bba o wysy\u0142k\u0119 dpd: : Dzia\u0142 Aparatury Medycznej Budynek E II pietro pok\u00f3j 2213 02 097 UCK WUM ul. Banacha 1a, 02-097      Warszawa ",
+            "nazwa_odbieranego_aparatu": "",
+            "nr_sr_odbieranego": null,
+            "warunki_gwarnacji": null,
+            "subproducts": [
+                {
+                    "produkt_nazwa": "C251",
+                    "nr_seryjny": null
+                }
+            ]
+        },
+        {
+            "id": "27145",
+            "data_instalacj": "0000-00-00",
+            "okres_gwarancji": "12",
+            "nr_faktury": null,
+            "rodzaj_produktu": "",
+            "notatki": "pro\u015bba o wysy\u0142k\u0119 dpd: : Dzia\u0142 Aparatury Medycznej Budynek E II pietro pok\u00f3j 2213 02 097 UCK WUM ul. Banacha 1a, 02-097 Warszawa",
+            "nazwa_odbieranego_aparatu": "",
+            "nr_sr_odbieranego": null,
+            "warunki_gwarnacji": null,
+            "subproducts": [
+                {
+                    "produkt_nazwa": "C251",
+                    "nr_seryjny": null
+                }
+            ]
+        }
+    ],
+    "process_service_list": [
+        {
+            "id": "17713",
+            "nazwa_zdarzenia": null,
+            "typ_serwisu": "",
+            "przewidywana data realizacji": "2021-02-18",
+            "notatka do realizacj": null,
+            "plik": "url_do_pliku",
+            "akceptacja": null,
+            "cena_netto": "105000",
+            "nr_sr_odbieranego": null,
+            "warunki_gwarnacji": null,
+            "subproducts": []
+        },
+        {
+            "id": "29303",
+            "nazwa_zdarzenia": "Gwarancyjny SG",
+            "typ_serwisu": "Przegl\u0105d",
+            "przewidywana data realizacji": "2020-11-30",
+            "notatka do realizacj": "Zlecenie na przegl\u0105d ko\u0144cz\u0105cy gwarancje ap. usg V70 SN:205T4930 oraz 205T4873(36m); kontakt  Jacek Gajda 609 458 448 ",
+            "plik": "url_do_pliku",
+            "akceptacja": null,
+            "cena_netto": null,
+            "nr_sr_odbieranego": null,
+            "warunki_gwarnacji": null,
+            "subproducts": [
+                {
+                    "serwisowany_aparat": "79",
+                    "nr_seryjny": "205T4930 "
+                },
+                {
+                    "serwisowany_aparat": "79",
+                    "nr_seryjny": "205T4873"
+                }
+            ]
+        },
+        {
+            "id": "29644",
+            "nazwa_zdarzenia": "Zlecenie SPG",
+            "typ_serwisu": "Przegl\u0105d",
+            "przewidywana data realizacji": "2020-11-30",
+            "notatka do realizacj": "Zlecenie na przegl\u0105d ap. usg SSD 1100 FLEXUS s\/n 4241973; os kontaktowa Katarzyna Bujakowska 22 599 20 43",
+            "plik": "url_do_pliku",
+            "akceptacja": null,
+            "cena_netto": null,
+            "nr_sr_odbieranego": null,
+            "warunki_gwarnacji": null,
+            "subproducts": [
+                {
+                    "serwisowany_aparat": null,
+                    "nr_seryjny": null
+                },
+                {
+                    "serwisowany_aparat": "86",
+                    "nr_seryjny": "SSD 1100 FLEXUS s\/n 4241973"
+                }
+            ]
+        },
+        {
+            "id": "30201",
+            "nazwa_zdarzenia": "Zlecenie SPG",
+            "typ_serwisu": "Przegl\u0105d",
+            "przewidywana data realizacji": "2020-12-31",
+            "notatka do realizacj": "Zlecenie na przegl\u0105d ap. usg A7 s\/n X00B8600; Klinika Chirurgii Og\u00f3lnej Gastroenterologicznej i Onkologicznej; kontakt Katarzyna Rokici\u0144ska 22 599 20 43",
+            "plik": "url_do_pliku",
+            "akceptacja": null,
+            "cena_netto": null,
+            "nr_sr_odbieranego": null,
+            "warunki_gwarnacji": null,
+            "subproducts": [
+                {
+                    "serwisowany_aparat": null,
+                    "nr_seryjny": null
+                },
+                {
+                    "serwisowany_aparat": "105",
+                    "nr_seryjny": "X00B8600"
+                }
+            ]
+        }
+    ]
+}
